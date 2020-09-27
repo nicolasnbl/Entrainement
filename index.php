@@ -1,1 +1,4 @@
-<?php //salut bg ?>
+<?php //salut bg 
+
+//trop cool ça marche
+?>
